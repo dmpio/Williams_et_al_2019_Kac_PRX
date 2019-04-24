@@ -1,0 +1,26 @@
+Accession,Name,Symbol,Gene Symbol,Entrez,Matrix,IMS,Acetylated Residues,DKOvsDFC_FC,CrATKOvsCrATFL_FC
+P47934,Carnitine O-acetyltransferase,Crat,Crat,12908,True,False,K609,6.507775315630836,5.933494785624629
+Q9CZU6,"Citrate synthase, mitochondrial",Cs,Cs,12974,True,False,K321; K327,6.4310701194262885,3.5243131680812327
+Q9DCX2,"ATP synthase subunit d, mitochondrial",Atp5h,Atp5h,71679,True,False,K73; K78,6.68616256934395,2.643139426719314
+Q9CQ62,"2,4-dienoyl-CoA reductase, mitochondrial",Decr1,Decr1,67460,True,False,K106,3.4522614481417646,2.5790728552031363
+Q99JY0,"Trifunctional enzyme subunit beta, mitochondrial",Hadhb,Hadhb,231086,False,False,K409,4.0490038061443325,2.4339154733602277
+Q9D2G2,"Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex, mitochondrial",Dlst,Dlst,78920,True,True,K268; K,2.4779202241839955,2.412339873370565
+P54071,"Isocitrate dehydrogenase [NADP], mitochondrial",Idh2,Idh2,269951,True,False,K48,1.3489682936479666,2.2919056452759023
+Q9D0M3,"Cytochrome c1, heme protein, mitochondrial",Cyc1,Cyc1,66445,True,True,K318,3.5610545110780416,2.248257141960538
+Q99KR7,"Peptidyl-prolyl cis-trans isomerase F, mitochondrial",Ppif,Ppif,105675,True,False,K85,4.8371565532821545,2.2358101023240597
+P05202,"Aspartate aminotransferase, mitochondrial",Got2,Got2,14719,True,True,K363,2.6210101616342927,2.2325103073707706
+Q03265,"ATP synthase subunit alpha, mitochondrial",Atp5a1,Atp5a1,11946,True,False,K531; K539,13.955865049019337,2.1656160305178807
+Q99L13,"3-hydroxyisobutyrate dehydrogenase, mitochondrial",Hibadh,Hibadh,58875,True,False,K94,1.2460754879533036,2.1385517799544576
+D3Z316,Protein 1700021F05Rik,1700021F05Rik,1700021F05Rik,67851,False,False,K130,4.6143573466041605,2.1355936057890954
+Q9Z2I9,"Succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial",Sucla2,Sucla2,20916,True,False,K438,4.144570936940854,2.1089932492651533
+Q9CQ62,"2,4-dienoyl-CoA reductase, mitochondrial",Decr1,Decr1,67460,True,False,K244; K246,1.5274793536269275,2.094395983519865
+Q9CQB4,Cytochrome b-c1 complex subunit 7,Uqcrb,Uqcrb,67530,True,False,K88,2.7402795198961467,2.087188255397636
+P54071,"Isocitrate dehydrogenase [NADP], mitochondrial",Idh2,Idh2,269951,True,False,K280,2.070866571299687,2.0844856823870996
+O08749,"Dihydrolipoyl dehydrogenase, mitochondrial",Dld,Dld,13382,True,False,K143,5.790327978443808,2.0622288682259384
+P42125,"Enoyl-CoA delta isomerase 1, mitochondrial",Eci1,Eci1,13177,True,False,K255,9.797140118156873,2.060485870090404
+P08249,"Malate dehydrogenase, mitochondrial",Mdh2,Mdh2,17448,True,False,K328; K329,3.237774351055668,2.0311303897388044
+P08249,"Malate dehydrogenase, mitochondrial",Mdh2,Mdh2,17448,True,False,K335,5.167544675146288,2.0239002551326624
+Q921G7,"Electron transfer flavoprotein-ubiquinone oxidoreductase, mitochondrial",Etfdh,Etfdh,66841,True,False,K496,3.4738039551224666,2.008697836979858
+Q99JY0,"Trifunctional enzyme subunit beta, mitochondrial",Hadhb,Hadhb,231086,False,False,K278,6.756548214908898,2.0047740176377795
+Q9DCX2,"ATP synthase subunit d, mitochondrial",Atp5h,Atp5h,71679,True,False,K73,1.7443627745042407,1.9866852100536017
+Q99JY0,"Trifunctional enzyme subunit beta, mitochondrial",Hadhb,Hadhb,231086,False,False,K49,1.2932429210991876,1.977314128452412
