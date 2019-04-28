@@ -61,7 +61,7 @@ In the *limma* analysis, columns ending in `_significant` indicate the statistic
 - `S3KO`  Sirt3 Knock-out. (Sirt3 ablation via cre-recombinase induced under the muscle creatine kinase promoter)
 - `S3FL` Sirt3 Flox control. (Floxed controls for the S3KO animals)
 - `CrATKO` CrAT Knock-out. (CrAT ablation via cre-recombinase induced under the muscle creatine kinase promoter)
-- `CrATFL` CrAT Flox control. (Floxed controls for the S3KO animals)
+- `CrATFL` CrAT Flox control. (Floxed controls for the CrATKO animals)
 - `FC` Fold Change
 - `Log2FC` Fold Change in the Log2 space
 - `Kac` Peptide containing an acetylated lysine residue (K=abbreviation for lysine)
