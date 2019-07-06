@@ -23,13 +23,15 @@ Contains the analysis results from `Data_Analysis.ipynb` in both Excel files and
 
 ## Information about files within `processed_files` 
 
-There are 2 Excel files within the directory:
+There are 3 Excel files within the directory:
     
 1. The File ending with "plex" contains the processed data for the acetylpeptides corrected for the "relative occupancy" (abb. "RO"), acetylpeptides only corrected for loading content, and the proteins
 
 2. The file ending with "Top25" contains processed data derived from the data in file #1 that shows the top 25 most differentially abundant acetylpeptides (corrected for the relative occupancy) along with basic information about the acetylated residues involved and the protein information
     
-All of the sheets within the Excel files are also stored in ".csv" formatted files.
+All of the sheets within the these Excel files are also stored in ".csv" formatted files.
+
+1. The file starting with "SKM" containes the processed data for th acetylpeptides corrected for the "relative occupancy" (abb. "RO"), acetylpeptides only corrected for loading content, and the proteins. This file was bundled with the paper (after minor formatting modifications) in the supplemental materials. 
 ___
 
 Within the first Excel file (and corresponding .csv files), a basic nomenclature is utilized. 
