@@ -1,6 +1,6 @@
 Accession,Name,Symbol,Gene Symbol,Entrez,Matrix,IMS,Acetylated Residues,DKOvsDFC_FC,S3KOvsS3FL_FC
 Q9CZU6,"Citrate synthase, mitochondrial",Cs,Cs,12974,True,False,K52,203.430666248219,11.434281501042996
-Q8BWT1,"3-ketoacyl-CoA thiolase, mitochondrial",Acaa2,Acaa2,52538,True,False,K209,120.48725417989588,8.361982268369944
+Q8BWT1,"3-ketoacyl-CoA thiolase, mitochondrial",Acaa2,Acaa2,52538,True,False,K209,120.487254179895,8.361982268369944
 Q9CZU6,"Citrate synthase, mitochondrial",Cs,Cs,12974,True,False,K393,79.24704021057607,12.337543248941316
 Q9WUR2,"Enoyl-CoA delta isomerase 2, mitochondrial",Eci2,Eci2,23986,True,False,K60,74.07883022710864,11.796913710087932
 P08249,"Malate dehydrogenase, mitochondrial",Mdh2,Mdh2,17448,True,False,K239,67.10654298158084,13.180613858290275
@@ -18,7 +18,7 @@ Q8BMS1,"Trifunctional enzyme subunit alpha, mitochondrial",Hadha,Hadha,97212,Tru
 Q99KR7,"Peptidyl-prolyl cis-trans isomerase F, mitochondrial",Ppif,Ppif,105675,True,False,K,31.219107610595184,7.417710995396109
 P97450,"ATP synthase-coupling factor 6, mitochondrial",Atp5j,Atp5j,11957,False,True,K94,30.95080055753624,7.647413274503419
 Q8BMS1,"Trifunctional enzyme subunit alpha, mitochondrial",Hadha,Hadha,97212,True,False,K406,29.440771403422936,11.727291268947493
-Q8BMS1,"Trifunctional enzyme subunit alpha, mitochondrial",Hadha,Hadha,97212,True,False,K289,27.723017511195867,8.8803074489503
+Q8BMS1,"Trifunctional enzyme subunit alpha, mitochondrial",Hadha,Hadha,97212,True,False,K289,27.72301751119566,8.8803074489503
 Q9DBL1,"Short/branched chain specific acyl-CoA dehydrogenase, mitochondrial",Acadsb,Acadsb,66885,True,False,K284,25.533179561522218,3.449302439334341
 Q8BMS1,"Trifunctional enzyme subunit alpha, mitochondrial",Hadha,Hadha,97212,True,False,K334,24.66595389193534,10.829100631097184
 Q9CZU6,"Citrate synthase, mitochondrial",Cs,Cs,12974,True,False,K49; K52,24.416380003881184,2.433938571397805

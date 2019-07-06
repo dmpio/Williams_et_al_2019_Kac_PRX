@@ -3,11 +3,11 @@ Q61425,"Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial",Hadh,Hadh,15107,Tru
 Q9CZU6,"Citrate synthase, mitochondrial",Cs,Cs,12974,True,False,K393,16.35982429180232,1.4183638149842026
 Q8K2B3,"Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial",Sdha,Sdha,66945,True,False,K179,16.164221108962096,1.1995510479099707
 Q8BMS1,"Trifunctional enzyme subunit alpha, mitochondrial",Hadha,Hadha,97212,True,False,K334,14.830349929209694,1.3529680698343414
-Q9CZU6,"Citrate synthase, mitochondrial",Cs,Cs,12974,True,False,K52,14.824442309093651,1.7951588890986807
+Q9CZU6,"Citrate synthase, mitochondrial",Cs,Cs,12974,True,False,K52,14.824442309093543,1.7951588890986807
 Q9CZU6,"Citrate synthase, mitochondrial",Cs,Cs,12974,True,False,K49; K52,14.108287471650808,1.3787868841325768
 Q03265,"ATP synthase subunit alpha, mitochondrial",Atp5a1,Atp5a1,11946,True,False,K531; K539,13.955865049019337,2.1656160305178807
 Q8QZT1,"Acetyl-CoA acetyltransferase, mitochondrial",Acat1,Acat1,110446,True,False,K260,13.620694131630756,1.2849920522974998
-Q9WUR2,"Enoyl-CoA delta isomerase 2, mitochondrial",Eci2,Eci2,23986,True,False,K60,11.757586638601081,1.2875110863875114
+Q9WUR2,"Enoyl-CoA delta isomerase 2, mitochondrial",Eci2,Eci2,23986,True,False,K60,11.757586638601081,1.2875110863875108
 Q99LC5,"Electron transfer flavoprotein subunit alpha, mitochondrial",Etfa,Etfa,110842,True,False,K226,11.376251919495383,1.483240156070949
 Q8BWT1,"3-ketoacyl-CoA thiolase, mitochondrial",Acaa2,Acaa2,52538,True,False,K209,11.061171766830485,1.5868789742667229
 Q8BFR5,"Elongation factor Tu, mitochondrial",Tufm,Tufm,233870,True,False,K88,10.965843328917764,1.5610587933820597
@@ -20,7 +20,7 @@ Q03265,"ATP synthase subunit alpha, mitochondrial",Atp5a1,Atp5a1,11946,True,Fals
 Q9CZU6,"Citrate synthase, mitochondrial",Cs,Cs,12974,True,False,K459,8.363488831755788,1.3074014089829515
 P03930,ATP synthase protein 8,Mtatp8,ATP8,17706,False,False,K46,8.32098772346713,1.2300552087006813
 P42125,"Enoyl-CoA delta isomerase 1, mitochondrial",Eci1,Eci1,13177,True,False,K283,7.993040516054445,1.210815993230403
-Q9Z2I9,"Succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial",Sucla2,Sucla2,20916,True,False,K116,7.652494853644444,1.2718480316818328
+Q9Z2I9,"Succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial",Sucla2,Sucla2,20916,True,False,K116,7.652494853644444,1.271848031681832
 Q61425,"Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial",Hadh,Hadh,15107,True,False,K81,7.647935689823902,1.2281586756901723
 Q8BMS1,"Trifunctional enzyme subunit alpha, mitochondrial",Hadha,Hadha,97212,True,False,K414; K415,7.578535590021427,1.3725144109078233
 Q80XN0,"D-beta-hydroxybutyrate dehydrogenase, mitochondrial",Bdh1,Bdh1,71911,True,False,K91,7.135625149114977,1.4663498878691155

@@ -16,9 +16,9 @@ P03930,ATP synthase protein 8,Mtatp8,ATP8,17706,False,False,K46,53.7569613473082
 Q61425,"Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial",Hadh,Hadh,15107,True,False,K75,13.742882701794493,10.158260627964351
 P56480,"ATP synthase subunit beta, mitochondrial",Atp5b,Atp5b,11947,True,False,K198,13.44930495018104,9.796555932434831
 Q8BMS1,"Trifunctional enzyme subunit alpha, mitochondrial",Hadha,Hadha,97212,True,False,K411; K413,50.22452916002313,9.495206305375433
-Q8BMS1,"Trifunctional enzyme subunit alpha, mitochondrial",Hadha,Hadha,97212,True,False,K289,27.723017511195867,8.8803074489503
+Q8BMS1,"Trifunctional enzyme subunit alpha, mitochondrial",Hadha,Hadha,97212,True,False,K289,27.72301751119566,8.8803074489503
 P42125,"Enoyl-CoA delta isomerase 1, mitochondrial",Eci1,Eci1,13177,True,False,K283,39.6481426959199,8.475233985455594
-Q8BWT1,"3-ketoacyl-CoA thiolase, mitochondrial",Acaa2,Acaa2,52538,True,False,K209,120.48725417989588,8.361982268369944
+Q8BWT1,"3-ketoacyl-CoA thiolase, mitochondrial",Acaa2,Acaa2,52538,True,False,K209,120.487254179895,8.361982268369944
 Q8BMS1,"Trifunctional enzyme subunit alpha, mitochondrial",Hadha,Hadha,97212,True,False,K,43.29914456604574,8.348417461347776
 Q8BMS1,"Trifunctional enzyme subunit alpha, mitochondrial",Hadha,Hadha,97212,True,False,K620,9.767994637741461,8.249786620304892
 Q99JY0,"Trifunctional enzyme subunit beta, mitochondrial",Hadhb,Hadhb,231086,False,False,K189,11.116008330452036,8.050005358024126
