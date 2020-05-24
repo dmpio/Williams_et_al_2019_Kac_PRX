@@ -2,10 +2,10 @@
 
 Proteomic Data Analysis for the following publication:
 
-> Williams, A.S., Koves, T.R., Davidson, M.T., Crown, S.B., Fisher-Wellman, K.H., Torres, M.J., Draper, J.A., Narowski, T.M., Slentz, D.H., Lantier, L., et al. (2019). Disruption of acetyl-lysine turnover in muscle mitochondria promotes insulin resistance and redox stress without overt respiratory dysfunction. *In review* [link placeholder]
+> Williams, A.S., Koves, T.R., Davidson, M.T., Crown, S.B., Fisher-Wellman, K.H., Torres, M.J., Draper, J.A., Narowski, T.M., Slentz, D.H., Lantier, L., Wasserman, D.H., Grimsrud, P.A., Muoio, D.M. (2020). Disruption of Acetyl-Lysine Turnover in Muscle Mitochondria Promotes Insulin Resistance and Redox Stress without Overt Respiratory Dysfunction. Cell Metabolism 31, 131-147.e11. [DOI: 10.1016/j.cmet.2019.11.003](https://doi.org/10.1016/j.cmet.2019.11.003). [PMID: 31813822](https://pubmed.ncbi.nlm.nih.gov/31813822/)
 
 ## Raw Data
-The raw data for the proteomics experiments was submitted to the Proteome Xchange Consortium via the jPOST Repository [Accession Number & link Placeholder]
+The raw data for the proteomics experiments was submitted to the Proteome Xchange Consortium via PRIDE and can be accessed with the following identifier:  [PXD014586](http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD014586)
 
 ## Directory Structure
 
